@@ -11,7 +11,6 @@ func searchAnagram(arr []string) map[string][]string { // Основная фу�
 	iterationArray(arr, mapAnagram)
 	deleteSingle(mapAnagram)
 	sortMap(mapAnagram)
-	fmt.Printf("%T\n", mapAnagram)
 	return mapAnagram
 }
 
