@@ -1,0 +1,17 @@
+see - видеть
+look - смотреть
+listen - слушать
+hear - слышать
+feel - чувствовать
+remember - помнить
+forget - забывать
+recognize - узнавать
+read - читать
+write - писать
+count - считать
+add - прибавлять
+subtract - вычитать
+multiply - умножать
+divide - делить
+think - думать
+decide - решать
