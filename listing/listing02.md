@@ -1,5 +1,5 @@
 Что выведет программа? Объяснить вывод программы. Объяснить как работают defer’ы и порядок их вызовов.
-
+```golang
     package main
     
     import (
@@ -29,7 +29,7 @@
         fmt.Println(test())
         fmt.Println(anotherTest())
     }
-
+```
 Ответ:
 `2
 1`
